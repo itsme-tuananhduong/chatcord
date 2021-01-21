@@ -1,0 +1,13 @@
+#bg {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://aysdiscord.com/img/discord_dark.png");
+  height: 700px;
+}
+
+#img {
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 110px;
+  margin-bottom: 10px;
+}
