@@ -1,2 +1,2 @@
-# project
+# Chatcord - Chat Room for Aliens
 updating...
