@@ -1,2 +1,3 @@
 # Chatcord - Chat Room for Aliens
-updating...
+
+Code Fullstack JS - 42 - Project
